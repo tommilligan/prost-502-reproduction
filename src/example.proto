@@ -1,0 +1,6 @@
+syntax = "proto3";
+package example;
+
+message Example {
+  string example_field = 1;
+}
